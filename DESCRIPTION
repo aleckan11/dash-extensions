@@ -1,0 +1,13 @@
+Package: dashExtensions
+Title: Extensions for Plotly Dash.
+Version: 1.0.18
+Description: Extensions for Plotly Dash.
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
